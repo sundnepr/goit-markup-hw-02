@@ -75,29 +75,3 @@ body {
 }
 
 /* =======/Page Header styles ======= */
-
-/* =======section button =======*/
-.section-studio {
-  background: #2e2f42;
-  text-align: center;
-}
-.section-studio-title {
-  font-weight: 700;
-  font-size: 56px;
-  line-height: 1.07;
-  letter-spacing: 0.02em;
-  color: #ffffff;
-}
-.section-studio-button {
-  font-weight: 500;
-  font-size: 16px;
-  line-height: 1.5;
-  letter-spacing: 0.04em;
-  color: #ffffff;
-  background: #4d5ae5;
-}
-.section-studio-button:hover,
-.section-studio-button:focus {
-  background: #404bbf;
-}
-/* =======/section button=======*/
