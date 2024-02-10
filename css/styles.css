@@ -58,7 +58,7 @@ font-family: 'Roboto', sans-serif; */
 .page-menu-list-item-a:focus {
   color: #404bbf;
 }
-.page-menu-list-item:active {
+.page-menu-list-item-a:active {
   color: #404bbf;
 }
 
@@ -75,13 +75,8 @@ font-family: 'Roboto', sans-serif; */
   color: #434455;
 }
 
-.email:hover,
-.email:focus {
-  color: #404bbf;
-}
-
-.phone:hover,
-.phone:focus {
+.addres-data:hover,
+.ddres-data:focus {
   color: #404bbf;
 }
 
