@@ -68,8 +68,8 @@ font-family: 'Roboto', sans-serif; */
 }
 
 .addres-data {
-  font-family: "Roboto", sans-serif;
-  font-weight: 400;
+  /* font-family: "Roboto", sans-serif; */
+  /* font-weight: 400; */
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
@@ -150,7 +150,7 @@ font-family: 'Roboto', sans-serif; */
   color: #2e2f42;
 }
 .team-list-jobtitle {
-  font-weight: 400;
+  /* font-weight: 400; */
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
@@ -179,7 +179,7 @@ font-family: 'Roboto', sans-serif; */
   color: #2e2f42;
 }
 .section-portfolio-list-text {
-  font-weight: 400;
+  /* font-weight: 400; */
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
@@ -202,8 +202,8 @@ font-family: 'Roboto', sans-serif; */
 }
 
 .page-footer-text {
-  font-family: "Roboto", sans-serif;
-  font-weight: 400;
+  /* font-family: "Roboto", sans-serif; */
+  /* font-weight: 400; */
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
