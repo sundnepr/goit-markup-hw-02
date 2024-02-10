@@ -150,21 +150,33 @@ font-family: 'Roboto', sans-serif; */
 /* ======/section-team===== */
 
 /* ======section-portfilio"===== */
-.section-portfilio h3 {
-  font-family: "Roboto", sans-serif;
-  font-weight: 500;
-  font-size: 20px;
-  line-height: 1.2;
+.section-portfolio-title {
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 1.11111;
   letter-spacing: 0.02em;
+  text-transform: capitalize;
+  text-align: center;
   color: #2e2f42;
 }
-.section-portfilio p {
-  font-family: "Roboto", sans-serif;
-  font-weight: 400;
-  font-size: 16px;
-  line-height: 1.5;
+
+.section-portfolio-list-title {
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 1.11111;
   letter-spacing: 0.02em;
-  color: #434455;
+  text-transform: capitalize;
+  text-align: center;
+  color: #2e2f42;
+}
+.section-portfolio-list-text {
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 1.11111;
+  letter-spacing: 0.02em;
+  text-transform: capitalize;
+  text-align: center;
+  color: #2e2f42;
 }
 /* ======/section-portfilio"===== */
 
