@@ -101,14 +101,14 @@ font-family: 'Roboto', sans-serif; */
 /* =======/section button=======*/
 
 /* ======section benefits===== */
-.section-benefits h3 {
+.ection-benefits-title {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
-.section-benefits p {
+.benefits-list {
   font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
@@ -116,22 +116,38 @@ font-family: 'Roboto', sans-serif; */
   color: #434455;
 }
 
-.section-team h3 {
-  font-family: "Roboto", sans-serif;
+.section-team {
+  background-color: #f4f4fd;
+}
+
+.section-team-title {
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 1.11;
+  letter-spacing: 0.02em;
+  text-transform: capitalize;
+  text-align: center;
+  color: #2e2f42;
+}
+
+.team-list-name {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
   letter-spacing: 0.02em;
+  text-align: center;
   color: #2e2f42;
 }
-.section-team p {
-  font-family: "Roboto", sans-serif;
+.team-list-jobtitle {
   font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
+  text-align: center;
   color: #434455;
-} /* ======/section-team===== */
+}
+
+/* ======/section-team===== */
 
 /* ======section-portfilio"===== */
 .section-portfilio h3 {
