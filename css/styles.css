@@ -59,14 +59,19 @@ font-family: 'Roboto', sans-serif; */
   color: #404bbf;
 }
 
-.header-addres {
+.addres-group {
+  font-style: normal;
+}
+
+.header-addres-item {
+  font-family: "Roboto", sans-serif;
   font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
-  font-style: normal;
 }
+
 .header-addres:hover,
 .header-addres:focus {
   color: #404bbf;
