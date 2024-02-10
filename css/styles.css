@@ -51,7 +51,10 @@ font-family: 'Roboto', sans-serif; */
   color: #2e2f42;
 }
 
-.page-menu-list-item-a:hover,
+.page-menu-list-item-a:hover {
+  color: #404bbf;
+}
+
 .page-menu-list-item-a:focus {
   color: #404bbf;
 }
@@ -63,7 +66,15 @@ font-family: 'Roboto', sans-serif; */
   font-style: normal;
 }
 
-.header-addres-item {
+.email {
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
+}
+.phone {
   font-family: "Roboto", sans-serif;
   font-weight: 400;
   font-size: 16px;
@@ -72,8 +83,13 @@ font-family: 'Roboto', sans-serif; */
   color: #434455;
 }
 
-.header-addres-item:hover,
-.header-addres-item:focus {
+.email:hover,
+.email:focus {
+  color: #404bbf;
+}
+
+.phone:hover,
+.phone:focus {
   color: #404bbf;
 }
 
