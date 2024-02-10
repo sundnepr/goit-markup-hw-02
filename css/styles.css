@@ -64,10 +64,6 @@ font-family: 'Roboto', sans-serif; */
   color: #434455;
 }
 
-.page-menu-listhover,
-:focus {
-  color: #404bbf;
-}
 .menu-item:hover,
 :focus {
   color: #404bbf;
@@ -78,7 +74,7 @@ font-family: 'Roboto', sans-serif; */
 } */
 
 .addres-data:hover,
-.addres-data:focus {
+:focus {
   color: #404bbf;
 }
 
