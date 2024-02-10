@@ -51,6 +51,15 @@ font-family: 'Roboto', sans-serif; */
   color: #2e2f42;
 }
 
+.page-menu-listhover,
+:focus {
+  color: #404bbf;
+}
+.page-menu-list-item:hover,
+:focus {
+  color: #404bbf;
+}
+
 .page-menu-list-item-a:hover,
 :focus {
   color: #404bbf;
