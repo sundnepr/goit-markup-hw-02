@@ -43,7 +43,7 @@ font-family: 'Roboto', sans-serif; */
   color: #2e2f42;
 }
 
-.page-menu {
+.page-menu-item {
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
@@ -51,8 +51,8 @@ font-family: 'Roboto', sans-serif; */
   color: #2e2f42;
 }
 
-.page-menu-item-first:hover,
-.page-menu-item-first:focus {
+.page-menu-item:hover,
+.page-menu-item:focus {
   color: #404bbf;
 }
 .page-menu-item-first.active {
